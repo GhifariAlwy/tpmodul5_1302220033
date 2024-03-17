@@ -1,0 +1,14 @@
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.AssemblyInfoInputs.cache
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.AssemblyInfo.cs
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.csproj.CoreCompileInputs.cache
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\bin\Debug\net8.0\tpmod2_1302220033.exe
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\bin\Debug\net8.0\tpmod2_1302220033.deps.json
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\bin\Debug\net8.0\tpmod2_1302220033.runtimeconfig.json
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\bin\Debug\net8.0\tpmod2_1302220033.dll
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\bin\Debug\net8.0\tpmod2_1302220033.pdb
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.dll
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\refint\tpmod2_1302220033.dll
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.pdb
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\tpmod2_1302220033.genruntimeconfig.cache
+C:\KULIAH\KPL\tpmod2_1302220033\tpmod2_1302220033\obj\Debug\net8.0\ref\tpmod2_1302220033.dll
