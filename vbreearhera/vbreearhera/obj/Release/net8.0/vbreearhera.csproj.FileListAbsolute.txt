@@ -1,4 +1,0 @@
-C:\KULIAH\KPL\vbreearhera\vbreearhera\obj\Release\net8.0\vbreearhera.GeneratedMSBuildEditorConfig.editorconfig
-C:\KULIAH\KPL\vbreearhera\vbreearhera\obj\Release\net8.0\vbreearhera.AssemblyInfoInputs.cache
-C:\KULIAH\KPL\vbreearhera\vbreearhera\obj\Release\net8.0\vbreearhera.AssemblyInfo.cs
-C:\KULIAH\KPL\vbreearhera\vbreearhera\obj\Release\net8.0\vbreearhera.csproj.CoreCompileInputs.cache
